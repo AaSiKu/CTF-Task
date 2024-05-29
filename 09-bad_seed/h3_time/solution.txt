@@ -1,0 +1,2 @@
+1. the program uses the time when the program started running as the seed of radom.
+2. I got this time using gdb, feed it to srand, generated a output using rand() and got the flag.
